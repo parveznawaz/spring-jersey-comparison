@@ -1,0 +1,1 @@
+docker run -d -p 9090:9090 -v C:/parvez/java/spring-films/prometheus.yml:/etc/prometheus/prometheus.yml prom/prometheus
